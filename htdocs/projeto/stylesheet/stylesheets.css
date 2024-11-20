@@ -1,0 +1,51 @@
+body{
+    background-image: url(../img/Logoindex.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: 800px;
+    background-color: transparent;
+}
+
+.containerindex {
+    position: relative;
+    height: 700px;
+    width: 300px;
+    margin-top: 50px;
+    margin-left: 25px;
+    background: linear-gradient(pink, lightblue, lightyellow);
+    border: 2px solid rgb(179, 171, 171);
+    border-radius: 10px;
+}
+
+.listalateralindex p {
+    border-bottom: 1px solid rgb(179, 171, 171);
+}
+
+.h1login{
+    color: blue;
+    text-align: center;
+}
+
+.listalateralindex{
+    text-align: center;
+}
+
+.text-custom{
+    color: blue;
+}
+
+.formview{
+    width: 800px;
+    height: 400px;
+    margin-left: 300px;
+    background: black;
+}
+
+.containercard{
+    margin-left: 400px;
+    margin-top: -725px;
+    border: 2px transparent;
+    border-radius: 10px;
+    height: 700px;
+}
